@@ -6,3 +6,4 @@ Some utility scripts to make my life and your life easier
 
 * [Windows Terminal Auto-run](/windows-terminal-autorun/)
 * [Git Branch Pruner](/git-branch-pruner/)
+* [Metadata Exporter](/metadata-exporter/)
