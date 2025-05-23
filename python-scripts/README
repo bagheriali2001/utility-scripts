@@ -1,0 +1,9 @@
+# Python Scripts
+
+These are some python script that I used!
+
+## Video Duration
+
+Recursively go through a folder and print the video files and their durations.
+
+`python video_duration_sum.py FOLDER_PATH`
